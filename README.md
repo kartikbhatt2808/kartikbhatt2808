@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @kartikbhatt2808
 - 👀 I’m interested in exploring and understanding new things
-- 🌱 I’m currently learning data structures
-- 💞️ I’m looking to collaborate on strawConnect which aims to manage the agiculture waste by providing it to cattle farms etc
+- 🌱 I’m currently learning about Genrative AI features in Cloud Computing and IoT
 - 📫 How to reach me kartik2005bhatt@gmail.com
-- ⚡ Fun fact: i am a student at UPES
 
 <!---
 kartikbhatt2808/kartikbhatt2808 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
