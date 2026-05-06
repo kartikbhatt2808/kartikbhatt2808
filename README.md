@@ -1,125 +1,126 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Kartik Bhatt  
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Cloud+Computing+Enthusiast;Full+Stack+Developer;AWS+%7C+Docker+%7C+Kubernetes;Building+TravelHive+%26+AI+Projects;Always+Learning+New+Technologies" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=Kartik%20Bhatt&fontSize=55&fontAlignY=40&desc=Cloud%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60&animation=fadeIn" />
 
 </div>
 
 ---
 
-## 🚀 About Me  
-
-🎓 BTech Student specializing in **Cloud Computing**  
-☁️ Passionate about **AWS, DevOps, Docker, Kubernetes & CI/CD**  
-💻 Full Stack Developer interested in building scalable applications  
-🧠 Exploring **AI + Cloud Integration**  
-🌍 Building projects like **TravelHive** and **AI-Based Energy Consumption Prediction**  
-
----
-
-## 🌐 Connect With Me  
-
-<p align="left">
-<a href="https://github.com/kartikbhatt2808" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="50" />
-</a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" />
-</a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="50" />
-</a>
-</p>
-
----
-
-# 🛠 Tech Stack  
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,fastapi,mysql,mongodb,docker,kubernetes,aws,git,github,vscode,linux" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&pause=1000&color=7F5AF0&center=true&vCenter=true&width=1000&lines=Cloud+Computing+Enthusiast;Full+Stack+Developer;AWS+%7C+Docker+%7C+Kubernetes;Building+TravelHive+%26+AI+Projects;Designing+Modern+Developer+Experiences" />
 
 </div>
 
 ---
 
-# 📌 Featured Projects  
+# ✨ About Me
 
-## 🌍 TravelHive  
-A platform that connects solo travelers into groups for trips across Uttarakhand.  
-**Tech:** React, Streamlit, Docker, Maps API, Python  
+<img align="right" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
----
-
-## ⚡ AI-Based Energy Consumption Prediction  
-ML-powered web app that predicts future energy consumption using historical data.  
-**Tech:** Python, Streamlit, Scikit-Learn, Pandas, Docker  
-
----
-
-## 🏠 House Price Prediction  
-Machine learning project for predicting housing prices with feature engineering.  
-**Tech:** Python, ML, Pandas, NumPy  
+```yaml
+name: Kartik Bhatt
+role: Cloud & Full Stack Developer
+education: BTech in Cloud Computing
+focus:
+  - AWS
+  - DevOps
+  - Docker
+  - Kubernetes
+  - AI + Cloud
+```
 
 ---
 
-## 🌐 Portfolio Website  
-Animated portfolio website showcasing projects, cloud skills, and development journey.  
-**Tech:** HTML, CSS, JavaScript, GitHub Pages  
-
----
-
-# 📊 GitHub Analytics  
+# 🧠 Tech Stack
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kartikbhatt2808&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikbhatt2808&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikbhatt2808&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,python,react,nodejs,fastapi,mysql,mongodb,linux,git,github,vscode,js,html,css" />
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake Animation  
+# 🌌 Featured Projects
+
+| 🚀 Project | ⚡ Description |
+|---|---|
+| TravelHive | Connect solo travelers into groups |
+| AI Energy Predictor | Predict future energy usage |
+| House Price Prediction | ML housing price prediction |
+| Portfolio Website | Animated developer portfolio |
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kartikbhatt2808/kartikbhatt2808/output/snake.svg" alt="Snake animation" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=kartikbhatt2808&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikbhatt2808&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# ⚙️ GitHub Activity Graph  
+# 🌠 Activity Graph
 
-[![Kartik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kartikbhatt2808&theme=tokyo-night)](https://github.com/kartikbhatt2808)
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikbhatt2808&theme=tokyo-night"/>
 
-# 🧠 Current Focus  
-
-- ☁️ AWS & Cloud Architecture  
-- 🐳 Docker & Kubernetes  
-- 🔄 CI/CD Automation  
-- 🤖 AI + Cloud Projects  
-- 🌐 Full Stack Development  
+</div>
 
 ---
 
-# ✨ Fun Quote  
+# 🐍 Snake Animation
 
-> "Build. Break. Learn. Repeat." 🚀
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/kartikbhatt2808/kartikbhatt2808/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🎧 Spotify
+
+<div align="center">
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com)
+
+</div>
+
+---
+
+# 💫 Floating Badges
+
+<div align="center">
+
+![](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
+
+![](https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker)
+
+![](https://img.shields.io/badge/Kubernetes-Orchestration-326ce5?style=for-the-badge&logo=kubernetes)
+
+</div>
+
+---
+
+# 🛸 Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=kartikbhatt2808&label=PROFILE+VIEWS&color=7F5AF0&style=for-the-badge"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🔥 Thanks for visiting my profile!  
-
-<img src="https://komarev.com/ghpvc/?username=kartikbhatt2808&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0c29,50:302b63,100:24243e"/>
 
 </div>
