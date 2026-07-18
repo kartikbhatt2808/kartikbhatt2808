@@ -1,0 +1,39 @@
+<svg width="900" height="270" viewBox="0 0 900 270" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Kartik Bhatt GitHub signal</title>
+  <desc id="desc">A premium dark profile card showing Kartik Bhatt's engineering focus areas and technical strengths.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="900" y1="0" y2="270" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.48" stop-color="#082f49"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="55" x2="840" y1="20" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22d3ee"/>
+      <stop offset="0.5" stop-color="#14b8a6"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="18" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.10 0 0 0 0 0.82 0 0 0 0 0.78 0 0 0 0.42 0"/>
+      <feBlend in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect width="900" height="270" rx="30" fill="url(#bg)"/>
+  <rect x="1.5" y="1.5" width="897" height="267" rx="28.5" stroke="url(#accent)" stroke-opacity="0.65" stroke-width="3"/>
+  <circle cx="120" cy="35" r="120" fill="#22d3ee" opacity="0.10"/>
+  <circle cx="800" cy="240" r="150" fill="#a78bfa" opacity="0.11"/>
+  <text x="54" y="62" fill="#e5f8ff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800" letter-spacing="4">GITHUB SIGNAL</text>
+  <text x="54" y="104" fill="#ffffff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="36" font-weight="900">Engineering profile built around cloud, AI, and automation.</text>
+  <text x="56" y="136" fill="#b6c7d8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17">A focused portfolio of infrastructure, full-stack systems, ML workflows, and DevOps projects.</text>
+  <g filter="url(#softGlow)">
+    <rect x="55" y="168" width="240" height="62" rx="18" fill="rgba(15,23,42,0.85)" stroke="#22d3ee" stroke-opacity="0.55"/>
+    <text x="80" y="195" fill="#22d3ee" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">CLOUD + DEVOPS</text>
+    <text x="80" y="216" fill="#f8fafc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">AWS · Docker · K8s · IaC</text>
+    <rect x="330" y="168" width="240" height="62" rx="18" fill="rgba(15,23,42,0.85)" stroke="#14b8a6" stroke-opacity="0.55"/>
+    <text x="355" y="195" fill="#14b8a6" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">AI / ML SYSTEMS</text>
+    <text x="355" y="216" fill="#f8fafc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">Python · SHAP · CatBoost</text>
+    <rect x="605" y="168" width="240" height="62" rx="18" fill="rgba(15,23,42,0.85)" stroke="#a78bfa" stroke-opacity="0.55"/>
+    <text x="630" y="195" fill="#a78bfa" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">FULL STACK</text>
+    <text x="630" y="216" fill="#f8fafc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">React · FastAPI · SQL</text>
+  </g>
+</svg>

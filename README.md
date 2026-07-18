@@ -98,13 +98,7 @@ const kartik = {
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kartikbhatt2808&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&custom_title=Engineering%20Dashboard" alt="Kartik Bhatt GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikbhatt2808&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages" alt="Kartik Bhatt top languages" />
-
-  <br />
-  <br />
-
-  <img src="https://streak-stats.demolab.com?user=kartikbhatt2808&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Kartik Bhatt GitHub streak" />
+  <img src="./assets/github-signal.svg" alt="Kartik Bhatt GitHub signal card" />
 
 </div>
 
@@ -117,7 +111,7 @@ One small interactive piece — clean, technical, and intentionally lightweight.
 <div align="center">
 
   <a href="https://kartikbhatt2808.github.io/Portfolio-2/game/">
-    <img src="https://kartikbhatt2808.github.io/Portfolio-2/assets/github/cloud-route-card.svg" alt="Play Cloud Route, a small interactive cloud routing game" />
+    <img src="./assets/cloud-route-card.svg" alt="Play Cloud Route, a small interactive cloud routing game" />
   </a>
 
 </div>
