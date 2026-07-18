@@ -33,7 +33,7 @@
   </g>
   <text x="70" y="64" fill="#e5f8ff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="4">INTERACTIVE MINI GAME</text>
   <text x="70" y="105" fill="#ffffff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="44" font-weight="800">Cloud Route</text>
-  <text x="70" y="134" fill="#b6c7d8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17">Route packets through cloud nodes before the timer expires.</text>
+  <text x="70" y="134" fill="#b6c7d8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">Route packets through cloud nodes before the timer expires.</text>
   <rect x="645" y="188" width="184" height="46" rx="23" fill="url(#accent)"/>
   <text x="686" y="217" fill="#04111d" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="800">Play now →</text>
 </svg>

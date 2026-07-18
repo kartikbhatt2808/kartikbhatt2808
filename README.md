@@ -98,7 +98,7 @@ const kartik = {
 
 <div align="center">
 
-  <img src="./assets/github-signal.svg" alt="Kartik Bhatt GitHub signal card" />
+  <img src="./assets/github-signal.svg" width="100%" alt="Kartik Bhatt GitHub signal card" />
 
 </div>
 
@@ -111,7 +111,7 @@ One small interactive piece — clean, technical, and intentionally lightweight.
 <div align="center">
 
   <a href="https://kartikbhatt2808.github.io/Portfolio-2/game/">
-    <img src="./assets/cloud-route-card.svg" alt="Play Cloud Route, a small interactive cloud routing game" />
+    <img src="./assets/cloud-route-card.svg" width="100%" alt="Play Cloud Route, a small interactive cloud routing game" />
   </a>
 
 </div>
